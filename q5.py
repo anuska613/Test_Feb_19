@@ -20,7 +20,7 @@ class Employee:
 
 
 
-s= Employee.getObjFromString("Ekta-2000")
+s= Employee.getObjFromString("Anuska-2000")
 s.printname()
 s.printsalary()
 
